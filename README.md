@@ -1,4 +1,3 @@
-# 88
 <!DOCTYPE html>
 <html lang="kk">
 <head>
